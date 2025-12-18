@@ -3,12 +3,26 @@ layout: page
 ---
 <div class="post">
   <article>
+    <!-- {% if page.join_us %}
+    <h2>Join Our Team!</h2>
+    <p>{{ page.join_us }}</p>
+    {% endif %} -->
+    <div class="clearfix">
+      {% if profile.content %}
+      {% capture profile_content %}{% include_relative {{ profile.content }} %}{% endcapture %}
+      {{ profile_content | markdownify }}
+      {% else %}
+      {{ content }}
+      {% endif %}
+    </div>
     {% if page.profiles %}
-      {% for profile in page.profiles %}
-        <hr>
-        <div class="profile float-{% if profile.align == 'left' %}left{% else %}right{% endif %}">
+    <h2>Team</h2>
+      <div class="row row-cols-1 row-cols-sm-2 row-cols-md-4 g-4">
+        {% for profile in page.profiles %}
+          <div class="col">
+            <div class="profile-card">
           {% if profile.image %}
-            {% assign profile_image_path = profile.image | prepend: 'assets/img/' %}
+            {% assign profile_image_path = profile.image | prepend: 'assets/img/headshots/' %}
             {% if profile.image_circular %}
               {% assign profile_image_class = 'img-fluid z-depth-1 rounded-circle' %}
             {% else %}
@@ -17,20 +31,52 @@ layout: page
             {% capture sizes %}(min-width: {{ site.max_width }}) {{ site.max_width | minus: 30 | times: 0.3}}px, (min-width: 576px) 30vw, 95vw"{% endcapture %}
             {% include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=profile.image %}
           {% endif %}
+          {% if profile.name %}
+            <h5>{{ profile.name }}</h5>
+          {% endif %}
+          {% if profile.title %}
+            <p>{{ profile.title }}</p>
+          {% endif %}
+          {% if profile.email %}
+            <p><a href="mailto:{{ profile.email }}">{{ profile.email }}</a></p>
+          {% endif %}
           {% if profile.more_info %}
             <div class="more-info">{{ profile.more_info }}</div>
           {% endif %}
-        </div>
 
-        <div class="clearfix">
-          {% if profile.content %}
-            {% capture profile_content %}{% include_relative {{ profile.content }} %}{% endcapture %}
-            {{ profile_content | markdownify }}
-          {% else %}
-            {{ content }}
-          {% endif %}
-        </div>
-      {% endfor %}
+
+            </div>
+          </div>
+        {% endfor %}
+      </div>
     {% endif %}
+
+    {% if page.alumni %}
+      <div class="clearfix">
+      <h2>Alumni</h2>
+    
+        {% for profile in page.alumni %}
+        <p>
+          {% if profile.link %}
+          <a href="{{ profile.link }}">{{ profile.name }}</a>
+          {% else %}
+          <b>{{ profile.name }}</b>
+          {% endif %}
+          (
+          {% if profile.school %}
+          {{ profile.school }},
+          {% endif %}
+          {% if profile.title %}
+           {{ profile.title }},
+          {% endif %}
+          {% if profile.award %}
+           {{ profile.award }}
+          {% endif %}
+          ){% if profile.years %}, {{ profile.years }}{% endif %}
+        </p>
+        {% endfor %}
+      </div>
+    {% endif %}
+
   </article>
 </div>
