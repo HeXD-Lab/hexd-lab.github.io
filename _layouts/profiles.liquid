@@ -16,43 +16,43 @@ layout: page
       {% endif %}
     </div>
     {% if page.profiles %}
+
     <h2>Team</h2>
-      <div class="row row-cols-1 row-cols-sm-2 row-cols-md-4 g-4">
+      <div class="row row-cols-1 row-cols-sm-2 row-cols-md-4 mt-n3 g-2">
         {% for profile in page.profiles %}
           <div class="col">
-            <div class="profile-card">
-          {% if profile.image %}
-            {% assign profile_image_path = profile.image | prepend: 'assets/img/headshots/' %}
-            {% if profile.image_circular %}
-              {% assign profile_image_class = 'img-fluid z-depth-1 rounded-circle' %}
-            {% else %}
-              {% assign profile_image_class = 'img-fluid z-depth-1 rounded' %}
+          <div class="profile-card">
+            {% if profile.image %}
+              {% assign profile_image_path = profile.image | prepend: 'assets/img/headshots/' %}
+              {% if profile.image_circular %}
+                {% assign profile_image_class = 'float-left img-fluid z-depth-1 rounded-circle' %}
+              {% else %}
+                {% assign profile_image_class = 'float-left img-fluid z-depth-1 rounded' %}
+              {% endif %}
+              {% capture sizes %}(min-width: {{ site.max_width }}) {{ site.max_width | minus: 30 | times: 0.3}}px, (min-width: 576px) 30vw, 95vw"{% endcapture %}
+              {% include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=profile.image %}
             {% endif %}
-            {% capture sizes %}(min-width: {{ site.max_width }}) {{ site.max_width | minus: 30 | times: 0.3}}px, (min-width: 576px) 30vw, 95vw"{% endcapture %}
-            {% include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=profile.image %}
-          {% endif %}
-          {% if profile.name %}
-            <h5>{{ profile.name }}</h5>
-          {% endif %}
-          {% if profile.title %}
-            <p>{{ profile.title }}</p>
-          {% endif %}
-          {% if profile.email %}
-            <p><a href="mailto:{{ profile.email }}">{{ profile.email }}</a></p>
-          {% endif %}
-          {% if profile.more_info %}
-            <div class="more-info">{{ profile.more_info }}</div>
-          {% endif %}
-
-
-            </div>
+            {% if profile.name %}
+            <div class="card-title">{{ profile.name }}</div>
+            {% endif %}
+            {% if profile.title %}
+              <div class="card-text">{{ profile.title }}</div>
+            {% endif %}
+            {% if profile.email %}
+              <a class="card-text"href="mailto:{{ profile.email }}">{{ profile.email }}</a>
+            {% endif %}
+            {% if profile.more_info %}
+              <div class="more-info">{{ profile.more_info }}</div>
+            {% endif %}
+          </div>
           </div>
         {% endfor %}
       </div>
+  
     {% endif %}
 
     {% if page.alumni %}
-      <div class="clearfix">
+      <div class="clearfix profile-alumni">
       <h2>Alumni</h2>
     
         {% for profile in page.alumni %}
@@ -60,17 +60,17 @@ layout: page
           {% if profile.link %}
           <a href="{{ profile.link }}">{{ profile.name }}</a>
           {% else %}
-          <b>{{ profile.name }}</b>
+          <span class="card-title">{{ profile.name }}</span>
           {% endif %}
           (
           {% if profile.school %}
-          {{ profile.school }},
+          {{ profile.school }}
           {% endif %}
           {% if profile.title %}
-           {{ profile.title }},
+          , {{ profile.title }}
           {% endif %}
           {% if profile.award %}
-           {{ profile.award }}
+          , {{ profile.award }}
           {% endif %}
           ){% if profile.years %}, {{ profile.years }}{% endif %}
         </p>

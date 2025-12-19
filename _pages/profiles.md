@@ -14,7 +14,7 @@ profiles:
     title: Assistant Professor
     email: rawan@utdallas.edu
   - align: left
-    image: xulong_tang.jpg
+    image: xulong_tang.png
     image_circular: false # crops the image to make it circular
     name: Ben (Xulong) Tang
     title: PhD student
@@ -92,7 +92,26 @@ alumni:
     school: UT Dallas
     award: Undergraduate Research Scholar Award winner
     years: 2024-2025
-
+  - name: Nomaan Khan
+    title: MS student
+    school: UT Dallas
+    years: 2024
+  - name: Pranjal Ghimire
+    title: Undergraduate student
+    school: UT Dallas
+    years: 2024
+  - name: Abbas Khawaja
+    title: Undergraduate student
+    school: UT Dallas
+    years: 2024
+  - name: Vaishnavi Josyula
+    title: Undergraduate student
+    school: UT Dallas
+    years: 2024
+  - name: Sowresh Mecheri-Senthil
+    title: Undergraduate student
+    school: UT Dallas
+    years: 2023-2024
 
 ---
 <h2>Join Our Team</h2>

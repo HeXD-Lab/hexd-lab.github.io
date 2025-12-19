@@ -208,16 +208,74 @@ ul.task-list input[type="checkbox"] {
       margin: 0;
     }
   }
+    .card-body {
+    padding: 0rem;
+  }
+
+  .card-title {
+    font-weight: bold;
+    margin-top: 0.5rem;
+    margin-bottom: 0.25rem
+  }
+
+  .card-text {
+    color: var(--global-text-color-light);
+  }
+}
+
+.profile-card{
+  margin-bottom: 0;
+  margin-top: 0;
+  line-height: 1.25rem;
+      .card-body {
+    padding: 0rem;
+  }
+
+  .card-img {
+    width: 100%;
+  }
+
+  .card-title {
+    font-weight: 400;
+    margin-top: 0.5rem;
+    margin-bottom: 0;
+    display: inline-block;
+
+  }
+
+  .card-text {
+    margin-top: 0;
+    margin-bottom: 0;
+ 
+  }
+
 }
 
 .profile.float-right {
   margin-left: 1rem;
+  margin-bottom: 0;
 }
 
 .profile.float-left {
   margin-right: 1rem;
+  margin-bottom: 0;
 }
 
+.profile-card.float-left {
+  margin-bottom: 0rem;
+  margin-top: -10rem;
+}
+.card-title{
+    font-weight: 400;
+}
+
+.profile-alumni {
+  line-height: 1.25rem;
+  
+  p {
+    margin-bottom: 0.5rem;
+  }
+}
 @media (min-width: 576px) {
   .profile {
     width: 30%;
