@@ -386,5 +386,13 @@
         <div style="text-align: center;">{% include video.liquid path=entry.video class="img-fluid rounded z-depth-1" controls=true %}</div>
       </div>
     {% endif %}
+
+    {% if entry.news %}
+    <!-- Featured news -->
+      <div class="news">
+        <h6>{{ entry.news }}</h6>
+      </div>
+    {% endif %}
+
   </div>
 </div>

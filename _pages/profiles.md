@@ -87,6 +87,14 @@ profiles:
     name: Shreya Karthikeyan
     title: Undergraduate student (UT Austin)
 alumni:
+  - name: Benjamin Licus 
+    title: Undergraduate student
+    school: UT Dallas
+    years: 2025
+  - name: Gowri Nanda 
+    title: Undergraduate student
+    school: UT Dallas
+    years: 2025
   - name: Venkatasai Gudisa 
     title: Undergraduate student
     school: UT Dallas
