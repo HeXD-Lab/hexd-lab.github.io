@@ -23,7 +23,7 @@ layout: page
           <div class="col">
           <div class="profile-card">
             {% if profile.url %}
-              <a href="{{ profile.url }}">
+              <a href="{{ profile.link }}">
             {% endif %}
             {% if profile.image %}
               {% assign profile_image_path = profile.image | prepend: 'assets/img/headshots/' %}
@@ -69,16 +69,16 @@ layout: page
           <span class="card-title">{{ profile.name }}</span>
           {% endif %}
           (
-          {% if profile.school %}
-          {{ profile.school }}
-          {% endif %}
-          {% if profile.title %}
-          , {{ profile.title }}
-          {% endif %}
-          {% if profile.award %}
-          , {{ profile.award }}
-          {% endif %}
-          ){% if profile.years %}, {{ profile.years }}{% endif %}
+          {%- if profile.school -%}
+          {{profile.school -}}
+          {%- endif -%}
+          {%- if profile.title -%}
+          , {{ profile.title -}}
+          {%- endif -%}
+          {%- if profile.award -%}
+          , {{ profile.award -}}
+          {%- endif -%})
+          {%- if profile.years -%}, {{ profile.years -}}{%- endif -%}
         </p>
         {% endfor %}
       </div>

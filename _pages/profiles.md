@@ -13,14 +13,14 @@ profiles:
     name: Rawan Alghofaili
     title: Assistant Professor
     email: rawan@utdallas.edu
-    url: https://rawanmg.com/
+    link: https://rawanmg.com/
   - align: left
     image: xulong_tang.png
     image_circular: false # crops the image to make it circular
     name: Ben (Xulong) Tang
     title: PhD student
     email: xulong.tang@utdallas.edu
-    url: https://xulongt.github.io/
+    link: https://xulongt.github.io/
   - align: left
     image: eun_yeo.png
     image_circular: false # crops the image to make it circular
