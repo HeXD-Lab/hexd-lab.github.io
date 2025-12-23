@@ -28,16 +28,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-congratulations-to-anish-for-recieving-the-undergraduate-research-scholar-award",
+          title: 'Congratulations to Anish for recieving the Undergraduate Research Scholar Award!',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-congratulations-to-sarah-and-venkatasai-for-recieving-the-undergraduate-research-scholar-award",
+          title: 'Congratulations to Sarah and Venkatasai for recieving the Undergraduate Research Scholar Award!',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/templates/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-our-paper-personalized-dance-synthesis-based-on-physical-and-cognitive-intensities-was-conditionally-accepted-to-ieee-vr",
+          title: 'Our paper Personalized Dance Synthesis Based on Physical and Cognitive Intensities was conditionally...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
