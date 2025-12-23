@@ -4,9 +4,14 @@
     <div class="container">
       {% if page.permalink != '/' %}
         <a class="navbar-brand title font-weight-lighter" href="{{ site.baseurl }}/">
+          {% if site.icon %}
+            {% assign brand_image_path = site.icon | prepend: 'assets/img/' %}
+
+            <img src="{{ brand_image_path | relative_url}}" alt="{{ site.title }}" class="navbar-brand-img">
+          {% endif %}
           {% if site.title == 'blank' %}
             {% if site.first_name %}
-              <span class="font-weight-bold">
+              <span class="navbar-brand font-weight-bold pl-2">
                 {{- site.first_name -}}
               </span>
             {% endif %}
@@ -41,7 +46,7 @@
       </button>
 
       <div class="collapse navbar-collapse text-right" id="navbarNav">
-        <ul class="navbar-nav ml-auto flex-nowrap">
+        <ul class="navbar-nav ml-auto pl-2 flex-nowrap">
           {% for page in site.pages %}
             {% if page.permalink == '/' %} {% assign about_title = page.title %} {% endif %}
           {% endfor %}

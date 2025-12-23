@@ -26,6 +26,12 @@
     #{color.channel($black-color, "blue", $space: rgb)},
     0.4
   );
+  --global-navbar-primary-color: #{$utd-orange-color};
+  --global-navbar-secondary-color: #{$utd-green-color};
+  --global-navbar-primary-text-color: #{$white-color};
+  --global-navbar-secondary-text-color: #{$grey-color};
+  --global-navbar-hover-text-color: #{$grey-color-light};
+
   --global-back-to-top-text-color: #{$white-color};
   --global-newsletter-bg-color: #{$white-color};
   --global-newsletter-text-color: #{$black-color};

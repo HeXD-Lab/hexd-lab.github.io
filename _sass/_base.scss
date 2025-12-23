@@ -307,7 +307,7 @@ ul.task-list input[type="checkbox"] {
 .navbar {
   box-shadow: none;
   border-bottom: 1px solid var(--global-divider-color);
-  background-color: var(--global-bg-color);
+  background-color: var(--global-navbar-secondary-color);
   opacity: 0.95;
 }
 
@@ -317,7 +317,7 @@ ul.task-list input[type="checkbox"] {
   border: 1px solid var(--global-divider-color);
 
   a:not(.active) {
-    color: var(--global-text-color);
+    color: var(--global-navbar-text-color);
   }
 
   a:hover {
@@ -356,24 +356,36 @@ ul.task-list input[type="checkbox"] {
   }
 
   .navbar-brand {
-    color: var(--global-text-color);
+    color: var(--global-navbar-primary-color);
+    // text-transform: uppercase;
+    font-weight: 800;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+  }
+  .navbar-brand-img{
+  width: 10%;
+  padding: 0;
   }
 
   .navbar-nav .nav-item .nav-link {
-    color: var(--global-text-color);
+    color: var(--global-navbar-secondary-text-color);
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 800;
+    font-size: 1rem;
+    letter-spacing: 0.05rem;
+    text-transform: uppercase;
+
 
     &:hover {
-      color: var(--global-hover-color);
+      color: var(--global-navbar-hover-text-color);
     }
   }
 
   .navbar-nav .nav-item.active > .nav-link {
     background-color: inherit;
-    font-weight: bolder;
-    color: var(--global-theme-color);
+    color: var(--global-navbar-primary-text-color);
 
     &:hover {
-      color: var(--global-hover-color);
+      color: var(--global-navbar-hover-text-color);
     }
   }
 
@@ -402,7 +414,7 @@ ul.task-list input[type="checkbox"] {
       }
 
       i::before {
-        color: var(--global-text-color);
+        color: var(--global-navbar-primary-color);
         transition-property: all 0.2s ease-in-out;
       }
 
@@ -420,7 +432,7 @@ ul.task-list input[type="checkbox"] {
     display: block;
     width: 22px;
     height: 2px;
-    background-color: var(--global-text-color);
+    background-color: var(--global-navbar-text-color);
     border-radius: 1px;
     margin-bottom: 4px;
     transition: all 0.2s;
