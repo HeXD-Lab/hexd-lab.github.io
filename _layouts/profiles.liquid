@@ -22,6 +22,9 @@ layout: page
         {% for profile in page.profiles %}
           <div class="col">
           <div class="profile-card">
+            {% if profile.url %}
+              <a href="{{ profile.url }}">
+            {% endif %}
             {% if profile.image %}
               {% assign profile_image_path = profile.image | prepend: 'assets/img/headshots/' %}
               {% if profile.image_circular %}
@@ -31,6 +34,9 @@ layout: page
               {% endif %}
               {% capture sizes %}(min-width: {{ site.max_width }}) {{ site.max_width | minus: 30 | times: 0.3}}px, (min-width: 576px) 30vw, 95vw"{% endcapture %}
               {% include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=profile.image %}
+              {% if profile.url %}
+              </a>
+              {% endif %}
             {% endif %}
             {% if profile.name %}
             <div class="card-title">{{ profile.name }}</div>
