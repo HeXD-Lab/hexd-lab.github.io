@@ -270,8 +270,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Alghofaili, Tang]
-  first_name: [Rawan, Xulong]
+  last_name: [Alghofaili, Tang, Yeo]
+  first_name: [Rawan, Xulong, Eun]
 
   style: apa
   locale: en

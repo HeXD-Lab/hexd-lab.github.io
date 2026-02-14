@@ -28,7 +28,7 @@ profiles:
     title: PhD student
     email: eun.yeo@utdallas.edu
   - align: left
-    image: default.jpg
+    image: yuxiao_wang.jpg
     image_circular: false # crops the image to make it circular
     name: Yuxiao Wang
     title: PhD student
@@ -64,20 +64,16 @@ profiles:
     name: Greeshma Nerella
     title: Undergraduate student  
   - align: left
-    image: varun_shiralkar.jpg
-    image_circular: false # crops the image to make it circular
-    name: Varun Shiralkar
-    title: Undergraduate student    
-  - align: left
-    image: default.jpg
-    image_circular: false # crops the image to make it circular
-    name: Daniel Nguyen
-    title: Undergraduate student   
-  - align: left
     image: diya_bhattarai.jpg
     image_circular: false # crops the image to make it circular
     name: Diya Bhattarai
-    title: Undergraduate student   
+    title: Undergraduate student  
+  - align: left
+    image: ayman_mohammad.jpg
+    image_circular: false # crops the image to make it circular
+    name: Ayman Mohammad
+    title: Undergraduate student 
+    link:   https://personal-website-theta-lemon-51.vercel.app
   - align: left
     image: default.jpg
     image_circular: false # crops the image to make it circular
@@ -89,6 +85,14 @@ profiles:
     name: Shreya Karthikeyan
     title: Undergraduate student (UT Austin)
 alumni:
+  - name: Varun Shiralkar
+    title: Undergraduate student
+    years: 2025    
+    school: UT Dallas
+  - name: Daniel Nguyen
+    title: Undergraduate student 
+    years: 2025 
+    school: UT Dallas 
   - name: Benjamin Licus 
     title: Undergraduate student
     school: UT Dallas
