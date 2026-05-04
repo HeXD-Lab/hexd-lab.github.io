@@ -1,0 +1,466 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rxa230065\\Documents\\GitHub\\hexd-lab.github.io\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rxa230065\\Documents\\GitHub\\hexd-lab.github.io\\_news\\templates\\_announcement_3.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_news\\templates\\_announcement_3.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rxa230065\\Documents\\GitHub\\hexd-lab.github.io\\_news\\templates\\_announcement_2.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_news\\templates\\_announcement_2.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rxa230065\\Documents\\GitHub\\hexd-lab.github.io\\_pages\\publications.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_pages\\publications.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rxa230065\\Documents\\GitHub\\hexd-lab.github.io\\_layouts\\profiles.liquid||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_layouts\\profiles.liquid||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rxa230065\\Documents\\GitHub\\hexd-lab.github.io\\_layouts\\post.liquid||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_layouts\\post.liquid||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rxa230065\\Documents\\GitHub\\hexd-lab.github.io\\_layouts\\page.liquid||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_layouts\\page.liquid||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rxa230065\\Documents\\GitHub\\hexd-lab.github.io\\_layouts\\none.liquid||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_layouts\\none.liquid||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rxa230065\\Documents\\GitHub\\hexd-lab.github.io\\_layouts\\distill.liquid||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_layouts\\distill.liquid||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rxa230065\\Documents\\GitHub\\hexd-lab.github.io\\_layouts\\default.liquid||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_layouts\\default.liquid||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rxa230065\\Documents\\GitHub\\hexd-lab.github.io\\_layouts\\cv.liquid||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_layouts\\cv.liquid||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rxa230065\\Documents\\GitHub\\hexd-lab.github.io\\_layouts\\book-shelf.liquid||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_layouts\\book-shelf.liquid||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rxa230065\\Documents\\GitHub\\hexd-lab.github.io\\_layouts\\book-review.liquid||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_layouts\\book-review.liquid||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rxa230065\\Documents\\GitHub\\hexd-lab.github.io\\_layouts\\bib.liquid||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_layouts\\bib.liquid||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rxa230065\\Documents\\GitHub\\hexd-lab.github.io\\_layouts\\archive.liquid||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_layouts\\archive.liquid||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rxa230065\\Documents\\GitHub\\hexd-lab.github.io\\_layouts\\about.liquid||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_layouts\\about.liquid||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rxa230065\\Documents\\GitHub\\hexd-lab.github.io\\_news\\announcement_6.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_news\\announcement_6.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rxa230065\\Documents\\GitHub\\hexd-lab.github.io\\_news\\templates\\_announcement_1.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_news\\templates\\_announcement_1.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rxa230065\\Documents\\GitHub\\hexd-lab.github.io\\_news\\announcement_2.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_news\\announcement_2.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rxa230065\\Documents\\GitHub\\hexd-lab.github.io\\_news\\announcement_3.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_news\\announcement_3.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rxa230065\\Documents\\GitHub\\hexd-lab.github.io\\_news\\announcement_4.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_news\\announcement_4.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rxa230065\\Documents\\GitHub\\hexd-lab.github.io\\_news\\announcement_5.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_news\\announcement_5.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rxa230065\\Documents\\GitHub\\hexd-lab.github.io\\_data\\coauthors.yml||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_data\\coauthors.yml||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rxa230065\\Documents\\GitHub\\hexd-lab.github.io\\_bibliography\\papers.bib||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_bibliography\\papers.bib||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rxa230065\\Documents\\GitHub\\hexd-lab.github.io\\_config.yml||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_config.yml||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rxa230065\\Documents\\GitHub\\hexd-lab.github.io\\CUSTOMIZE.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CUSTOMIZE.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rxa230065\\Documents\\GitHub\\hexd-lab.github.io\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "publications.md",
+              "DocumentMoniker": "C:\\Users\\rxa230065\\Documents\\GitHub\\hexd-lab.github.io\\_pages\\publications.md",
+              "RelativeDocumentMoniker": "_pages\\publications.md",
+              "ToolTip": "C:\\Users\\rxa230065\\Documents\\GitHub\\hexd-lab.github.io\\_pages\\publications.md",
+              "RelativeToolTip": "_pages\\publications.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-05-04T22:54:19.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "profiles.liquid",
+              "DocumentMoniker": "C:\\Users\\rxa230065\\Documents\\GitHub\\hexd-lab.github.io\\_layouts\\profiles.liquid",
+              "RelativeDocumentMoniker": "_layouts\\profiles.liquid",
+              "ToolTip": "C:\\Users\\rxa230065\\Documents\\GitHub\\hexd-lab.github.io\\_layouts\\profiles.liquid",
+              "RelativeToolTip": "_layouts\\profiles.liquid",
+              "ViewState": "AQIAADQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-04T22:53:35.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "none.liquid",
+              "DocumentMoniker": "C:\\Users\\rxa230065\\Documents\\GitHub\\hexd-lab.github.io\\_layouts\\none.liquid",
+              "RelativeDocumentMoniker": "_layouts\\none.liquid",
+              "ToolTip": "C:\\Users\\rxa230065\\Documents\\GitHub\\hexd-lab.github.io\\_layouts\\none.liquid",
+              "RelativeToolTip": "_layouts\\none.liquid",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-04T22:53:21.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "distill.liquid",
+              "DocumentMoniker": "C:\\Users\\rxa230065\\Documents\\GitHub\\hexd-lab.github.io\\_layouts\\distill.liquid",
+              "RelativeDocumentMoniker": "_layouts\\distill.liquid",
+              "ToolTip": "C:\\Users\\rxa230065\\Documents\\GitHub\\hexd-lab.github.io\\_layouts\\distill.liquid",
+              "RelativeToolTip": "_layouts\\distill.liquid",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-04T22:53:08.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "default.liquid",
+              "DocumentMoniker": "C:\\Users\\rxa230065\\Documents\\GitHub\\hexd-lab.github.io\\_layouts\\default.liquid",
+              "RelativeDocumentMoniker": "_layouts\\default.liquid",
+              "ToolTip": "C:\\Users\\rxa230065\\Documents\\GitHub\\hexd-lab.github.io\\_layouts\\default.liquid",
+              "RelativeToolTip": "_layouts\\default.liquid",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-04T22:53:03.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "cv.liquid",
+              "DocumentMoniker": "C:\\Users\\rxa230065\\Documents\\GitHub\\hexd-lab.github.io\\_layouts\\cv.liquid",
+              "RelativeDocumentMoniker": "_layouts\\cv.liquid",
+              "ToolTip": "C:\\Users\\rxa230065\\Documents\\GitHub\\hexd-lab.github.io\\_layouts\\cv.liquid",
+              "RelativeToolTip": "_layouts\\cv.liquid",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-04T22:53:01.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_announcement_2.md",
+              "DocumentMoniker": "C:\\Users\\rxa230065\\Documents\\GitHub\\hexd-lab.github.io\\_news\\templates\\_announcement_2.md",
+              "RelativeDocumentMoniker": "_news\\templates\\_announcement_2.md",
+              "ToolTip": "C:\\Users\\rxa230065\\Documents\\GitHub\\hexd-lab.github.io\\_news\\templates\\_announcement_2.md",
+              "RelativeToolTip": "_news\\templates\\_announcement_2.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-05-04T22:49:55.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_announcement_3.md",
+              "DocumentMoniker": "C:\\Users\\rxa230065\\Documents\\GitHub\\hexd-lab.github.io\\_news\\templates\\_announcement_3.md",
+              "RelativeDocumentMoniker": "_news\\templates\\_announcement_3.md",
+              "ToolTip": "C:\\Users\\rxa230065\\Documents\\GitHub\\hexd-lab.github.io\\_news\\templates\\_announcement_3.md",
+              "RelativeToolTip": "_news\\templates\\_announcement_3.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-05-04T22:50:27.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "book-shelf.liquid",
+              "DocumentMoniker": "C:\\Users\\rxa230065\\Documents\\GitHub\\hexd-lab.github.io\\_layouts\\book-shelf.liquid",
+              "RelativeDocumentMoniker": "_layouts\\book-shelf.liquid",
+              "ToolTip": "C:\\Users\\rxa230065\\Documents\\GitHub\\hexd-lab.github.io\\_layouts\\book-shelf.liquid",
+              "RelativeToolTip": "_layouts\\book-shelf.liquid",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-04T22:52:59.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "book-review.liquid",
+              "DocumentMoniker": "C:\\Users\\rxa230065\\Documents\\GitHub\\hexd-lab.github.io\\_layouts\\book-review.liquid",
+              "RelativeDocumentMoniker": "_layouts\\book-review.liquid",
+              "ToolTip": "C:\\Users\\rxa230065\\Documents\\GitHub\\hexd-lab.github.io\\_layouts\\book-review.liquid",
+              "RelativeToolTip": "_layouts\\book-review.liquid",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-04T22:52:57.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "archive.liquid",
+              "DocumentMoniker": "C:\\Users\\rxa230065\\Documents\\GitHub\\hexd-lab.github.io\\_layouts\\archive.liquid",
+              "RelativeDocumentMoniker": "_layouts\\archive.liquid",
+              "ToolTip": "C:\\Users\\rxa230065\\Documents\\GitHub\\hexd-lab.github.io\\_layouts\\archive.liquid",
+              "RelativeToolTip": "_layouts\\archive.liquid",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-04T22:52:47.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "page.liquid",
+              "DocumentMoniker": "C:\\Users\\rxa230065\\Documents\\GitHub\\hexd-lab.github.io\\_layouts\\page.liquid",
+              "RelativeDocumentMoniker": "_layouts\\page.liquid",
+              "ToolTip": "C:\\Users\\rxa230065\\Documents\\GitHub\\hexd-lab.github.io\\_layouts\\page.liquid",
+              "RelativeToolTip": "_layouts\\page.liquid",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-04T22:52:36.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "post.liquid",
+              "DocumentMoniker": "C:\\Users\\rxa230065\\Documents\\GitHub\\hexd-lab.github.io\\_layouts\\post.liquid",
+              "RelativeDocumentMoniker": "_layouts\\post.liquid",
+              "ToolTip": "C:\\Users\\rxa230065\\Documents\\GitHub\\hexd-lab.github.io\\_layouts\\post.liquid",
+              "RelativeToolTip": "_layouts\\post.liquid",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-04T22:52:39.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "about.liquid",
+              "DocumentMoniker": "C:\\Users\\rxa230065\\Documents\\GitHub\\hexd-lab.github.io\\_layouts\\about.liquid",
+              "RelativeDocumentMoniker": "_layouts\\about.liquid",
+              "ToolTip": "C:\\Users\\rxa230065\\Documents\\GitHub\\hexd-lab.github.io\\_layouts\\about.liquid",
+              "RelativeToolTip": "_layouts\\about.liquid",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-04T22:52:50.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_announcement_1.md",
+              "DocumentMoniker": "C:\\Users\\rxa230065\\Documents\\GitHub\\hexd-lab.github.io\\_news\\templates\\_announcement_1.md",
+              "RelativeDocumentMoniker": "_news\\templates\\_announcement_1.md",
+              "ToolTip": "C:\\Users\\rxa230065\\Documents\\GitHub\\hexd-lab.github.io\\_news\\templates\\_announcement_1.md",
+              "RelativeToolTip": "_news\\templates\\_announcement_1.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-05-04T22:50:25.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "bib.liquid",
+              "DocumentMoniker": "C:\\Users\\rxa230065\\Documents\\GitHub\\hexd-lab.github.io\\_layouts\\bib.liquid",
+              "RelativeDocumentMoniker": "_layouts\\bib.liquid",
+              "ToolTip": "C:\\Users\\rxa230065\\Documents\\GitHub\\hexd-lab.github.io\\_layouts\\bib.liquid",
+              "RelativeToolTip": "_layouts\\bib.liquid",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-04T22:14:59.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "announcement_2.md",
+              "DocumentMoniker": "C:\\Users\\rxa230065\\Documents\\GitHub\\hexd-lab.github.io\\_news\\announcement_2.md",
+              "RelativeDocumentMoniker": "_news\\announcement_2.md",
+              "ToolTip": "C:\\Users\\rxa230065\\Documents\\GitHub\\hexd-lab.github.io\\_news\\announcement_2.md",
+              "RelativeToolTip": "_news\\announcement_2.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-05-04T22:49:51.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "announcement_3.md",
+              "DocumentMoniker": "C:\\Users\\rxa230065\\Documents\\GitHub\\hexd-lab.github.io\\_news\\announcement_3.md",
+              "RelativeDocumentMoniker": "_news\\announcement_3.md",
+              "ToolTip": "C:\\Users\\rxa230065\\Documents\\GitHub\\hexd-lab.github.io\\_news\\announcement_3.md",
+              "RelativeToolTip": "_news\\announcement_3.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-05-04T22:49:50.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "announcement_6.md",
+              "DocumentMoniker": "C:\\Users\\rxa230065\\Documents\\GitHub\\hexd-lab.github.io\\_news\\announcement_6.md",
+              "RelativeDocumentMoniker": "_news\\announcement_6.md",
+              "ToolTip": "C:\\Users\\rxa230065\\Documents\\GitHub\\hexd-lab.github.io\\_news\\announcement_6.md",
+              "RelativeToolTip": "_news\\announcement_6.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-05-04T22:46:35.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "announcement_4.md",
+              "DocumentMoniker": "C:\\Users\\rxa230065\\Documents\\GitHub\\hexd-lab.github.io\\_news\\announcement_4.md",
+              "RelativeDocumentMoniker": "_news\\announcement_4.md",
+              "ToolTip": "C:\\Users\\rxa230065\\Documents\\GitHub\\hexd-lab.github.io\\_news\\announcement_4.md",
+              "RelativeToolTip": "_news\\announcement_4.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-05-04T22:46:17.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "announcement_5.md",
+              "DocumentMoniker": "C:\\Users\\rxa230065\\Documents\\GitHub\\hexd-lab.github.io\\_news\\announcement_5.md",
+              "RelativeDocumentMoniker": "_news\\announcement_5.md",
+              "ToolTip": "C:\\Users\\rxa230065\\Documents\\GitHub\\hexd-lab.github.io\\_news\\announcement_5.md",
+              "RelativeToolTip": "_news\\announcement_5.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-05-04T22:46:16.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "papers.bib",
+              "DocumentMoniker": "C:\\Users\\rxa230065\\Documents\\GitHub\\hexd-lab.github.io\\_bibliography\\papers.bib",
+              "RelativeDocumentMoniker": "_bibliography\\papers.bib",
+              "ToolTip": "C:\\Users\\rxa230065\\Documents\\GitHub\\hexd-lab.github.io\\_bibliography\\papers.bib",
+              "RelativeToolTip": "_bibliography\\papers.bib",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAAMAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAOKSURBVDhPhZRLb1tVFIW/c\u002B69thO/8n6YtCEhVBEtKCBSXhUJoEokAyAVkwxRR2XIP2DAf2DEL2ACYgCVADXQIAGhIDWEpFUDFcHOyze2Y/v6Ps5mECWxnSK2tCbnbC2tvdY5W3FaXTEnPZRMDAw0nZ0pzz/w6w23COYh0ADk5FJEVFNvrjczufDE8OvvS1NPc/lhjaSTPQjC6o8/3f/kY5AtoAaY4x7rtF11ZzpHXhnsvvRuI6j0i0RnEITV/qHMZP9Y38s92rIz7uHDfGi8KhAcKz0hVEp3JzsGn\u002BtKPz5TqecJwhpBVG\u002BB55cYTk/aEwMzmUxn7lzNd/2aX9z1w6oLhAD6VCEaRGEMiPwn/KiOHxzGO\u002B3s\u002BadG3nqvJz0\u002BjVLJY5Imhao7mRiY6kmNveoFBy1eH1dkGuxWNlgrfMm97W9wa1upvcq9u15w8AdQpE0hIBgiREwLksmIG9d9PvrQYn7OBhQorWy7U2ttNwfbQqhEjFImIqlDns9VmD53yPmeBl3JkNmXAq7OahbmbOZe02RSMeJOAkvZRqFOUm5RKCIkVMSLXQ0WJlyuXXJ5Y0K4mM6RPsyRJs7008LiOzBzWZNKaFSbN60ji6huO\u002BTGaJ03RyrMXyixeDHG2wOXKdy8Snm9l5QdMj0FH1wXerIRQstbbvcQLGUYjgfElYNlxeh7bI8nX/iZ6vYz1PZyRCUbOwjIZiO0Phtcq4cYJIywKwnUbpzdByOsrM7y9cYim9Y5dgr91LY6UOUA6gHGBIgYjlJ6BCEiKgoUhzs9mEIavW3T2NZs7Svq8XVU7W\u002Bs/RKmEOBvGowXwdH3fSQhIoLnw9pOmtJOlnQpYLSxzgXzFWP6MwbrvxHLu5TXhM0VhV8TRFrHbn\u002BHqmQiPq36bGxnCbdTjLtFrlW/Z778LcObLo07ce4vx/l8WSjXImgLpfmn9HbEup/tTAxd\u002BSvc5SC0saopEuUUtbJDZd/BLaT5Jd/BFzsWN4shPilKXv52PXDvgBTbCfs6nK6pTHz4SiUs4UrIA2mwEnos\u002BQ2WGgFLXsQPfsiqH1E0hpiVouz9c7seHPwKsk/7yMd70LGTlB2b321hyRJuKYtbxPhO29zVDq4Vx7GO9kH77mxW2OVYHePxWGYUhYui\u002BH8IjLdf8fLLfni4CuLSHLfSekhra1QpnUMpB6VazD5TIoJIIGLyxkR/ijEFgH8BCQbWTx8uXnsAAAAASUVORK5CYII=",
+              "WhenOpened": "2026-05-04T21:45:07.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_config.yml",
+              "DocumentMoniker": "C:\\Users\\rxa230065\\Documents\\GitHub\\hexd-lab.github.io\\_config.yml",
+              "RelativeDocumentMoniker": "_config.yml",
+              "ToolTip": "C:\\Users\\rxa230065\\Documents\\GitHub\\hexd-lab.github.io\\_config.yml",
+              "RelativeToolTip": "_config.yml",
+              "ViewState": "AQIAAPUAAAAAAAAAAAArwBABAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2026-05-04T21:24:57.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "coauthors.yml",
+              "DocumentMoniker": "C:\\Users\\rxa230065\\Documents\\GitHub\\hexd-lab.github.io\\_data\\coauthors.yml",
+              "RelativeDocumentMoniker": "_data\\coauthors.yml",
+              "ToolTip": "C:\\Users\\rxa230065\\Documents\\GitHub\\hexd-lab.github.io\\_data\\coauthors.yml",
+              "RelativeToolTip": "_data\\coauthors.yml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2026-05-04T21:20:57.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CUSTOMIZE.md",
+              "DocumentMoniker": "C:\\Users\\rxa230065\\Documents\\GitHub\\hexd-lab.github.io\\CUSTOMIZE.md",
+              "RelativeDocumentMoniker": "CUSTOMIZE.md",
+              "ToolTip": "C:\\Users\\rxa230065\\Documents\\GitHub\\hexd-lab.github.io\\CUSTOMIZE.md",
+              "RelativeToolTip": "CUSTOMIZE.md",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAhwFEAAABvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-05-04T21:20:20.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\rxa230065\\Documents\\GitHub\\hexd-lab.github.io\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\rxa230065\\Documents\\GitHub\\hexd-lab.github.io\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AQIAALwBAAAAAAAAAAAAAAAAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-05-04T21:20:02.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

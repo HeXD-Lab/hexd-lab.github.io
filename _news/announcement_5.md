@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Congratulations to Sarah for recieving the Undergraduate Research Scholar Award for the second time! 
+Congrats to Sarah for recieving the Undergraduate Research Scholar Award for the second time! 
