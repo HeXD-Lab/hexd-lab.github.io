@@ -1,0 +1,21 @@
+---
+layout: null
+permalink: /news-feed.json
+---
+{%- assign news = site.news | where: "personal_site", true | sort: "date" | reverse -%}
+{%- assign first = true -%}
+[
+{%- for item in news -%}
+  {%- unless item.path contains '/templates/' -%}
+    {%- unless first -%},{%- endunless -%}
+    {%- assign first = false -%}
+    {
+      "date": {{ item.date | date: "%Y-%m-%d" | jsonify }},
+      "title": {{ item.title | default: "Lab news" | jsonify }},
+      "inline": {{ item.inline | jsonify }},
+      "url": {{ item.url | absolute_url | jsonify }},
+      "html": {{ item.content | markdownify | jsonify }}
+    }
+  {%- endunless -%}
+{%- endfor -%}
+]
