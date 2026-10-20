@@ -1,4 +1,5 @@
 ---
+personal_site: true
 layout: post
 date: 2026-04-27
 inline: true
