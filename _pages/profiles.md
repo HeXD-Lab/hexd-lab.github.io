@@ -70,7 +70,7 @@ profiles:
     name: Sahana Sashital
     title: Undergraduate student   
 alumni:
-  # Optional: now shows the current role; link makes the alumnus name clickable.
+  # Optional: now appears after 'now at'; link adds a separate Website link.
   - name: Chitsein Htun
     title: MS student  
     years: 2025-2026
