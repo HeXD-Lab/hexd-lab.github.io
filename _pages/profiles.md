@@ -77,10 +77,11 @@ alumni:
     school: UT Dallas
     now: CS PhD student at UIUC
     link: https://www.chitseinhtun.com/about
-  - name: Sri Vellanki
+  - name: Pragnasri Vellanki
     title: Undergraduate student  
     years: 2024-2026
     school: UT Dallas
+    now: Data Strategy Analyst at Dave & Buster's Inc.
   - name: Anish Reddy Alle
     title: Undergraduate student
     years: 2024-2026    
