@@ -85,7 +85,7 @@ layout: page
           {%- endif -%})
           {%- if profile.years -%}, {{ profile.years -}}{%- endif -%}
           {% if profile.now and profile.now != blank %}
-          <span class="alumni-now"> &mdash; now at {{ profile.now | escape }}</span>
+          <span class="alumni-now"> &mdash; now {{ profile.now | escape }}</span>
           {% endif %}
         </p>
         {% endfor %}

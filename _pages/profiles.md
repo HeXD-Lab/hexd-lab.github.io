@@ -40,10 +40,11 @@ profiles:
     title: MS student
     link: https://sayanim1.github.io/
   - align: left
-    image: default.jpg
+    image: pragna.jpg
     image_circular: false # crops the image to make it circular
     name: Pragna Sree Koripuri
     title: MS student
+    link: https://pragna09.github.io/portfolio_website/
   - align: left
     image: daisy_gan.jpg
     image_circular: false # crops the image to make it circular
