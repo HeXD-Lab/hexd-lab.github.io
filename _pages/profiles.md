@@ -34,10 +34,11 @@ profiles:
     title: PhD student
     email: yuxiao.wang@utdallas.edu
   - align: left
-    image: default.jpg
+    image: sayani_mallick.jpg.jpg
     image_circular: false # crops the image to make it circular
     name: Sayani Mallick
     title: MS student
+    link: https://sayanim1.github.io/
   - align: left
     image: default.jpg
     image_circular: false # crops the image to make it circular
