@@ -39,6 +39,11 @@ profiles:
     name: Sayani Mallick
     title: MS student
   - align: left
+    image: default.jpg
+    image_circular: false # crops the image to make it circular
+    name: Pragna Sree Koripuri
+    title: MS student
+  - align: left
     image: daisy_gan.jpg
     image_circular: false # crops the image to make it circular
     name: Daisy Gan
@@ -49,25 +54,10 @@ profiles:
     name: Sarah Jacob
     title: Undergraduate student
   - align: left
-    image: anish_reddy_alle.jpg
-    image_circular: false # crops the image to make it circular
-    name: Anish Reddy Alle
-    title: Undergraduate student  
-  - align: left
-    image: sri_vellanki.jpg
-    image_circular: false # crops the image to make it circular
-    name: Sri Vellanki
-    title: Undergraduate student  
-  - align: left
     image: greeshma_nerella.jpg
     image_circular: false # crops the image to make it circular
     name: Greeshma Nerella
-    title: Undergraduate student  
-  - align: left
-    image: diya_bhattarai.jpg
-    image_circular: false # crops the image to make it circular
-    name: Diya Bhattarai
-    title: Undergraduate student  
+    title: Undergraduate student   
   - align: left
     image: ayman_mohammad.jpg
     image_circular: false # crops the image to make it circular
@@ -75,16 +65,35 @@ profiles:
     title: Undergraduate student 
     link:   https://personal-website-theta-lemon-51.vercel.app
   - align: left
-    image: default.jpg
+    image: sahana.jpg
     image_circular: false # crops the image to make it circular
-    name: Rohith Karthikeyan
-    title: Undergraduate student (UT Austin)
-  - align: left
-    image: default.jpg
-    image_circular: false # crops the image to make it circular
-    name: Shreya Karthikeyan
-    title: Undergraduate student (UT Austin)
+    name: Sahana Sashital
+    title: Undergraduate student   
 alumni:
+  - name: Chitsein Htun
+    title: MS student  
+    years: 2025-2026
+    school: UT Dallas
+  - name: Sri Vellanki
+    title: Undergraduate student  
+    years: 2024-2026
+    school: UT Dallas
+  - name: Anish Reddy Alle
+    title: Undergraduate student
+    years: 2024-2026    
+    school: UT Dallas
+  - name: Shreya Karthikeyan
+    title: Undergraduate student  
+    years: 2024-2026
+    school: UT Austin
+  - name: Rohith Karthikeyan
+    title: Undergraduate student  
+    years: 2024-2026
+    school: UT Austin
+  - name: Diya Bhattarai
+    title: Undergraduate student
+    years: 2025-2026   
+    school: UT Dallas
   - name: Varun Shiralkar
     title: Undergraduate student
     years: 2025    
