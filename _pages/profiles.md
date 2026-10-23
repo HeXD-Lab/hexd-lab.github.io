@@ -58,64 +58,64 @@ profiles:
     image: greeshma_nerella.jpg
     image_circular: false # crops the image to make it circular
     name: Greeshma Nerella
-    title: Undergraduate student   
+    title: Undergraduate student
   - align: left
     image: ayman_mohammad.jpg
     image_circular: false # crops the image to make it circular
     name: Ayman Mohammad
-    title: Undergraduate student 
-    link:   https://personal-website-theta-lemon-51.vercel.app
+    title: Undergraduate student
+    link: https://personal-website-theta-lemon-51.vercel.app
   - align: left
     image: sahana.jpg
     image_circular: false # crops the image to make it circular
     name: Sahana Sashital
-    title: Undergraduate student   
+    title: Undergraduate student
 alumni:
-  # Optional: now appears after 'now at'; link adds a separate Website link.
+  # Optional: now shows the current role; link makes the alumnus name clickable.
   - name: Chitsein Htun
-    title: MS student  
+    title: MS student
     years: 2025-2026
     school: UT Dallas
     now: CS PhD student at UIUC
     link: https://www.chitseinhtun.com/about
   - name: Pragnasri Vellanki
-    title: Undergraduate student  
+    title: Undergraduate student
     years: 2024-2026
     school: UT Dallas
     now: Data Strategy Analyst at Dave & Buster's Inc.
   - name: Anish Reddy Alle
     title: Undergraduate student
-    years: 2024-2026    
+    years: 2024-2026
     school: UT Dallas
   - name: Shreya Karthikeyan
-    title: Undergraduate student  
+    title: Undergraduate student
     years: 2024-2026
     school: UT Austin
   - name: Rohith Karthikeyan
-    title: Undergraduate student  
+    title: Undergraduate student
     years: 2024-2026
     school: UT Austin
   - name: Diya Bhattarai
     title: Undergraduate student
-    years: 2025-2026   
+    years: 2025-2026
     school: UT Dallas
   - name: Varun Shiralkar
     title: Undergraduate student
-    years: 2025    
+    years: 2025
     school: UT Dallas
   - name: Daniel Nguyen
-    title: Undergraduate student 
-    years: 2025 
-    school: UT Dallas 
-  - name: Benjamin Licus 
+    title: Undergraduate student
+    years: 2025
+    school: UT Dallas
+  - name: Benjamin Licus
     title: Undergraduate student
     school: UT Dallas
     years: 2025
-  - name: Gowri Nanda 
+  - name: Gowri Nanda
     title: Undergraduate student
     school: UT Dallas
     years: 2025
-  - name: Venkatasai Gudisa 
+  - name: Venkatasai Gudisa
     title: Undergraduate student
     school: UT Dallas
     award: Undergraduate Research Scholar Award winner
@@ -140,7 +140,7 @@ alumni:
     title: Undergraduate student
     school: UT Dallas
     years: 2023-2024
-
 ---
+
 <h2>Join Our Team</h2>
 If you're interested in joining HeXD, please contact Rawan Alghofaili with your C.V. and transcripts at <a href="mailto:rawan@utdallas.edu">rawan@utdallas.edu.</a> We're always looking for talented and well-motivated students who are excited about research in AR/VR/MR, and HCI!
