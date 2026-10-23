@@ -2,11 +2,11 @@
 layout: about
 title: Home
 permalink: /
-subtitle: <a href='https://map.concept3d.com/?id=1772#!m/547284?share'>ECSS 4.213</a>. <a href='https://cs.utdallas.edu/'>Department of Computer Science</a> at <a href='https://www.utdallas.edu/'> UT Dallas</a>. 
+subtitle: <a href='https://map.concept3d.com/?id=1772#!m/547284?share'>ECSS 4.213</a>. <a href='https://cs.utdallas.edu/'>Department of Computer Science</a> at <a href='https://www.utdallas.edu/'> UT Dallas</a>.
 
 profile:
   align: left
-  image: 
+  image:
   image_circular: false # crops the image to make it circular
   more_info:
 
@@ -30,4 +30,5 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
  -->
- We focus on advancing human-centered research in `extended reality (XR)`, including `augmented reality (AR)`, `virtual reality (VR)`, and `mixed reality (MR)`. Our research aims to advance immersive and interactive systems by integrating `behavioral` (e.g., using eye-tracking) and/or `environmental understanding` to create XR experiences adapt to users in context. Through interdisciplinary work spanning human-computer interaction, graphics, vision, and machine learning, HeXD Lab develops intelligent XR applications and experiences that prioritize usability, accessibility, and meaningful real-world impact, creating systems that are intuitive, context-aware, and grounded in human behavior and needs.
+
+We focus on advancing human-centered research in `extended reality (XR)`, including `augmented reality (AR)`, `virtual reality (VR)`, and `mixed reality (MR)`. Our research aims to advance immersive and interactive systems by integrating `behavioral` (e.g., using eye-tracking) and/or `environmental understanding` to create XR experiences adapt to users in context. Through interdisciplinary work spanning human-computer interaction, graphics, vision, and machine learning, HeXD Lab develops intelligent XR applications and experiences that prioritize usability, accessibility, and meaningful real-world impact, creating systems that are intuitive, context-aware, and grounded in human behavior and needs.
