@@ -89,7 +89,7 @@
             {{- author.first }}
             {{ author_last_html -}}
           </em>
-        {%- elsif coauthor_url == "NA" -%}
+        {%- elsif coauthor_url == 'NA' -%}
           <em>
             {{- author.first }}
             {{ author_last_html -}}
@@ -393,11 +393,10 @@
     {% endif %}
 
     {% if entry.news %}
-    <!-- Featured news -->
+      <!-- Featured news -->
       <div class="news">
         <h6>{{ entry.news }}</h6>
       </div>
     {% endif %}
-
   </div>
 </div>
