@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper <a href="https://greeshiee.github.io/AR-CogLoad">Gaze-based Prediction of Cognitive Load in Augmented Reality</a> was conditionally accepted to ETRA. 
+Our paper <a href="https://greeshiee.github.io/AR-CogLoad">Gaze-based Prediction of Cognitive Load in Augmented Reality</a> was conditionally accepted to ETRA.

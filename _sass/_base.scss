@@ -208,14 +208,14 @@ ul.task-list input[type="checkbox"] {
       margin: 0;
     }
   }
-    .card-body {
+  .card-body {
     padding: 0rem;
   }
 
   .card-title {
     font-weight: bold;
     margin-top: 0.5rem;
-    margin-bottom: 0.25rem
+    margin-bottom: 0.25rem;
   }
 
   .card-text {
@@ -223,11 +223,11 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
-.profile-card{
+.profile-card {
   margin-bottom: 0;
   margin-top: 0;
   line-height: 1.25rem;
-      .card-body {
+  .card-body {
     padding: 0rem;
   }
 
@@ -240,15 +240,12 @@ ul.task-list input[type="checkbox"] {
     margin-top: 0.5rem;
     margin-bottom: 0;
     display: inline-block;
-
   }
 
   .card-text {
     margin-top: 0;
     margin-bottom: 0;
- 
   }
-
 }
 
 .profile.float-right {
@@ -265,13 +262,13 @@ ul.task-list input[type="checkbox"] {
   margin-bottom: 0rem;
   margin-top: -10rem;
 }
-.card-title{
-    font-weight: 400;
+.card-title {
+  font-weight: 400;
 }
 
 .profile-alumni {
   line-height: 1.25rem;
-  
+
   p {
     margin-bottom: 0.5rem;
   }
@@ -310,8 +307,7 @@ ul.task-list input[type="checkbox"] {
   background-color: var(--global-navbar-secondary-color);
   opacity: 0.95;
   margin: auto auto 0;
-  padding: 0; 
-
+  padding: 0;
 }
 
 .navbar .dropdown-menu,
@@ -362,21 +358,20 @@ ul.task-list input[type="checkbox"] {
     color: var(--global-navbar-primary-color);
     // text-transform: uppercase;
     font-weight: 800;
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
   }
-  .navbar-brand-img{
-  width: 8%;
-  padding: 0;
+  .navbar-brand-img {
+    width: 8%;
+    padding: 0;
   }
 
   .navbar-nav .nav-item .nav-link {
     color: var(--global-navbar-secondary-text-color);
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-weight: 800;
     font-size: 0.8rem;
     letter-spacing: 0.05rem;
     text-transform: uppercase;
-
 
     &:hover {
       color: var(--global-navbar-hover-text-color);
