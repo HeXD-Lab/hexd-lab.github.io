@@ -79,6 +79,9 @@ layout: page
           , {{ profile.award -}}
           {%- endif -%})
           {%- if profile.years -%}, {{ profile.years -}}{%- endif -%}
+          {% if profile.now and profile.now != blank %}
+          <span class="alumni-now"> &mdash; Now: {{ profile.now | escape }}</span>
+          {% endif %}
         </p>
         {% endfor %}
       </div>
