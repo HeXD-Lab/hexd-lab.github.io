@@ -70,10 +70,13 @@ profiles:
     name: Sahana Sashital
     title: Undergraduate student   
 alumni:
+  # Optional: now shows the current role; link makes the alumnus name clickable.
   - name: Chitsein Htun
     title: MS student  
     years: 2025-2026
     school: UT Dallas
+    now: CS PhD student at UIUC
+    link: https://www.chitseinhtun.com/about
   - name: Sri Vellanki
     title: Undergraduate student  
     years: 2024-2026
