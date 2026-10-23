@@ -63,11 +63,7 @@ layout: page
     
         {% for profile in page.alumni %}
         <p>
-          {% if profile.link %}
-          <a href="{{ profile.link }}">{{ profile.name }}</a>
-          {% else %}
-          <span class="card-title">{{ profile.name }}</span>
-          {% endif %}
+          <span class="card-title">{{ profile.name | escape }}</span>
           (
           {%- if profile.school -%}
           {{profile.school -}}
@@ -80,7 +76,10 @@ layout: page
           {%- endif -%})
           {%- if profile.years -%}, {{ profile.years -}}{%- endif -%}
           {% if profile.now and profile.now != blank %}
-          <span class="alumni-now"> &mdash; Now: {{ profile.now | escape }}</span>
+          <span class="alumni-now"> &mdash; now at {{ profile.now | escape }}</span>
+          {% endif %}
+          {% if profile.link and profile.link != blank %}
+          <a href="{{ profile.link | escape }}" aria-label="{{ profile.name | escape }}'s website">Website</a>
           {% endif %}
         </p>
         {% endfor %}

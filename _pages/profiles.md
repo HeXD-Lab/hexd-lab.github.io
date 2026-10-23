@@ -34,10 +34,11 @@ profiles:
     title: PhD student
     email: yuxiao.wang@utdallas.edu
   - align: left
-    image: default.jpg
+    image: sayani_mallick.jpg.jpg
     image_circular: false # crops the image to make it circular
     name: Sayani Mallick
     title: MS student
+    link: https://sayanim1.github.io/
   - align: left
     image: default.jpg
     image_circular: false # crops the image to make it circular
@@ -70,17 +71,18 @@ profiles:
     name: Sahana Sashital
     title: Undergraduate student   
 alumni:
-  # Optional: now shows the current role; link makes the alumnus name clickable.
+  # Optional: now appears after 'now at'; link adds a separate Website link.
   - name: Chitsein Htun
     title: MS student  
     years: 2025-2026
     school: UT Dallas
     now: CS PhD student at UIUC
     link: https://www.chitseinhtun.com/about
-  - name: Sri Vellanki
+  - name: Pragnasri Vellanki
     title: Undergraduate student  
     years: 2024-2026
     school: UT Dallas
+    now: Data Strategy Analyst at Dave & Buster's Inc.
   - name: Anish Reddy Alle
     title: Undergraduate student
     years: 2024-2026    
